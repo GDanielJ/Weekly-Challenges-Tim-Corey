@@ -1,0 +1,11 @@
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\1. Foreach challange\ForeachChallange\ForeachChallange\bin\Debug\netcoreapp3.1\ForeachChallange.exe
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\1. Foreach challange\ForeachChallange\ForeachChallange\bin\Debug\netcoreapp3.1\ForeachChallange.deps.json
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\1. Foreach challange\ForeachChallange\ForeachChallange\bin\Debug\netcoreapp3.1\ForeachChallange.runtimeconfig.json
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\1. Foreach challange\ForeachChallange\ForeachChallange\bin\Debug\netcoreapp3.1\ForeachChallange.runtimeconfig.dev.json
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\1. Foreach challange\ForeachChallange\ForeachChallange\bin\Debug\netcoreapp3.1\ForeachChallange.dll
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\1. Foreach challange\ForeachChallange\ForeachChallange\bin\Debug\netcoreapp3.1\ForeachChallange.pdb
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\1. Foreach challange\ForeachChallange\ForeachChallange\obj\Debug\netcoreapp3.1\ForeachChallange.csprojAssemblyReference.cache
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\1. Foreach challange\ForeachChallange\ForeachChallange\obj\Debug\netcoreapp3.1\ForeachChallange.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\1. Foreach challange\ForeachChallange\ForeachChallange\obj\Debug\netcoreapp3.1\ForeachChallange.AssemblyInfo.cs
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\1. Foreach challange\ForeachChallange\ForeachChallange\obj\Debug\netcoreapp3.1\ForeachChallange.dll
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\1. Foreach challange\ForeachChallange\ForeachChallange\obj\Debug\netcoreapp3.1\ForeachChallange.pdb
