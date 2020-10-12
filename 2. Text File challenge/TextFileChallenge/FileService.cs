@@ -16,7 +16,9 @@ namespace TextFileChallenge
 
             using (var reader = new StreamReader(path))
             {
-                reader.ReadLine();
+                var headerLine = reader.ReadLine();
+
+                string[] headers = headerLine.Split(',');
 
                 while (!reader.EndOfStream)
                 {
@@ -25,10 +27,10 @@ namespace TextFileChallenge
                     var line = reader.ReadLine();
                     string[] values = line.Split(',');
 
-                    user.FirstName = values[0];
-                    user.LastName = values[1];
-                    user.Age = int.Parse(values[2]);
-                    user.IsAlive = Convert.ToBoolean(Convert.ToInt32(values[3]));
+                    user.FirstName = values[GetHeaderIndex(headers, "FirstName")];
+                    user.LastName = values[GetHeaderIndex(headers, "LastName")];
+                    user.Age = int.Parse(values[GetHeaderIndex(headers, "Age")]);
+                    user.IsAlive = Convert.ToBoolean(Convert.ToInt32(values[GetHeaderIndex(headers, "IsAlive")]));
 
                     users.Add(user);
                 }
@@ -37,26 +39,46 @@ namespace TextFileChallenge
             }
         }
 
+        public int GetHeaderIndex(string[] headers, string header)
+        {
+            return Array.IndexOf(headers, header);
+        }
+
         public void SaveUsers(BindingList<UserModel> users, string path)
         {
-            string headers = "";
+            string headerLine = "";
 
             using(var reader = new StreamReader(path))
             {
-                headers = reader.ReadLine();
+                headerLine = reader.ReadLine();
             }
 
             using(var writer = new StreamWriter(path, false))
             {
-                writer.WriteLine(headers);
+                writer.WriteLine(headerLine);
+
+                string[] headers = headerLine.Split(',');
+
+                int indexFirstName = GetHeaderIndex(headers, "FirstName");
+                int indexLastName = GetHeaderIndex(headers, "LastName");
+                int indexAge = GetHeaderIndex(headers, "Age");
+                int indexIsAlive = GetHeaderIndex(headers, "IsAlive");
 
                 foreach (var user in users)
                 {
-                    int isAliveInt = user.IsAlive == true ? 1 : 0;
+                    string isAliveInt = user.IsAlive == true ? "1" : "0";
 
-                    string line = $"{user.FirstName},{user.LastName},{user.Age},{isAliveInt}";
+                    string[] outputLines = new string[4];
 
-                    writer.WriteLine(line);
+                    outputLines[indexFirstName] = user.FirstName;
+                    outputLines[indexLastName] = user.LastName;
+                    outputLines[indexAge] = user.Age.ToString();
+                    outputLines[indexIsAlive] = isAliveInt;
+
+
+                    string outputLine = $"{outputLines[0]},{outputLines[1]},{outputLines[2]},{outputLines[3]}";
+
+                    writer.WriteLine(outputLine);
                 }
             }
         }

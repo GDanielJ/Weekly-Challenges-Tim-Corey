@@ -12,7 +12,11 @@ namespace TextFileChallenge
 {
     public partial class ChallengeForm : Form
     {
-        string path = @"C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\2. Text File challenge\TextFileChallenge\StandardDataSet.csv";
+        // Use StandardDataSet.csv
+        //string path = @"C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\2. Text File challenge\TextFileChallenge\StandardDataSet.csv";
+
+        // Use AdvancedDataSet.csv
+        string path = @"C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\2. Text File challenge\TextFileChallenge\AdvancedDataSet.csv";
 
         BindingList<UserModel> users = new BindingList<UserModel>();
         FileService fileService = new FileService();
