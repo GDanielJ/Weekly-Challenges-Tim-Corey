@@ -10,7 +10,6 @@ namespace TextFileChallenge
 {
     public class FileService
     {
-
         public BindingList<UserModel> ReadUsers(string path)
         {
             BindingList<UserModel> users = new BindingList<UserModel>();
@@ -40,8 +39,17 @@ namespace TextFileChallenge
 
         public void SaveUsers(BindingList<UserModel> users, string path)
         {
+            string headers = "";
+
+            using(var reader = new StreamReader(path))
+            {
+                headers = reader.ReadLine();
+            }
+
             using(var writer = new StreamWriter(path, false))
             {
+                writer.WriteLine(headers);
+
                 foreach (var user in users)
                 {
                     int isAliveInt = user.IsAlive == true ? 1 : 0;

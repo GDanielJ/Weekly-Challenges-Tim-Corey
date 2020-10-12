@@ -1,3 +1,5 @@
+FirstName,LastName,Age,IsAlive
+Dean,Flynn,31,0
 Bradley,Frost,86,1
 Carl,Smith,67,0
 Steel,Barrett,56,1
@@ -6,4 +8,4 @@ Leslie,Campos,88,1
 Jermaine,Sampson,62,0
 Warren,Ellis,76,1
 Jordan,Jones,41,1
-Dan,Andersson,22,1
+Dan,Karlsson,33,1
