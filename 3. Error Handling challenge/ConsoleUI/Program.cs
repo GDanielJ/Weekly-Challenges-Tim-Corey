@@ -27,12 +27,23 @@ namespace ConsoleUI
                         Console.WriteLine(result.TransactionAmount);
                     }
                 }
-                catch (Exception)
+                catch (Exception e)
                 {
-                    Console.WriteLine($"Payment skipped for payment with {i} items");
-                }
+                    string innerExceptionMessage = e.InnerException == null ? "" : e.InnerException.Message;
 
-                
+                    if (e is IndexOutOfRangeException)
+                    {
+                        Console.WriteLine($"Skipped invalid record {innerExceptionMessage}");
+                    }
+                    else if (e is FormatException && i != 5)
+                    {
+                        Console.WriteLine($"Formatting issue {innerExceptionMessage}");
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Payment skipped for payment with {i} items");
+                    }     
+                }
             }
             Console.ReadLine();
         }

@@ -15,3 +15,11 @@ C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\3. Error Handli
 C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\3. Error Handling challange\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
 C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\3. Error Handling challange\ConsoleUI\obj\Debug\ConsoleUI.exe
 C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\3. Error Handling challange\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\3. Error Handling challenge\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\3. Error Handling challenge\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\3. Error Handling challenge\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\3. Error Handling challenge\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\3. Error Handling challenge\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\3. Error Handling challenge\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\3. Error Handling challenge\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\3. Error Handling challenge\ConsoleUI\obj\Debug\ConsoleUI.pdb
