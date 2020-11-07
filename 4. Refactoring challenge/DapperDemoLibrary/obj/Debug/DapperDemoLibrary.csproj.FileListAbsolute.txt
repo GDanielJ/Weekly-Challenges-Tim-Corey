@@ -1,0 +1,8 @@
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\DapperDemoLibrary\bin\Debug\DapperDemoLibrary.dll
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\DapperDemoLibrary\bin\Debug\DapperDemoLibrary.pdb
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\DapperDemoLibrary\bin\Debug\Dapper.dll
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\DapperDemoLibrary\bin\Debug\Dapper.xml
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\DapperDemoLibrary\obj\Debug\DapperDemoLibrary.csprojAssemblyReference.cache
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\DapperDemoLibrary\obj\Debug\DapperDemoLibrary.csproj.CopyComplete
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\DapperDemoLibrary\obj\Debug\DapperDemoLibrary.dll
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\DapperDemoLibrary\obj\Debug\DapperDemoLibrary.pdb

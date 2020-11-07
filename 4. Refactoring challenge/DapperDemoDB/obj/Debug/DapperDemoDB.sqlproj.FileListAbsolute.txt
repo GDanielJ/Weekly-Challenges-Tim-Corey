@@ -1,0 +1,16 @@
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\bin\Debug\DapperDemoDB.dacpac
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\bin\Debug\DapperDemoDB.dll
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\bin\Debug\DapperDemoDB.pdb
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\DapperDemoDB.sqlprojAssemblyReference.cache
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\Model.xml
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\refactor.xml
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\postdeploy.sql
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\predeploy.sql
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\DapperDemoDB.dll
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\DapperDemoDB.pdb
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\DapperDemoDB\bin\Debug\DapperDemoDB.dacpac
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\DapperDemoDB\bin\Debug\DapperDemoDB.dll
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\DapperDemoDB\bin\Debug\DapperDemoDB.pdb
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\DapperDemoDB\obj\Debug\DapperDemoDB.sqlprojAssemblyReference.cache
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\DapperDemoDB\obj\Debug\DapperDemoDB.dll
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\DapperDemoDB\obj\Debug\DapperDemoDB.pdb

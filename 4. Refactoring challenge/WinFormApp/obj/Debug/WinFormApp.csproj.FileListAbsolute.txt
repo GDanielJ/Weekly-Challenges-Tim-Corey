@@ -1,0 +1,27 @@
+C:\Users\Tim\Source\Repos\DapperDemoDB\WinFormApp\bin\Debug\WinFormApp.exe.config
+C:\Users\Tim\Source\Repos\DapperDemoDB\WinFormApp\bin\Debug\WinFormApp.exe
+C:\Users\Tim\Source\Repos\DapperDemoDB\WinFormApp\bin\Debug\WinFormApp.pdb
+C:\Users\Tim\Source\Repos\DapperDemoDB\WinFormApp\bin\Debug\Dapper.dll
+C:\Users\Tim\Source\Repos\DapperDemoDB\WinFormApp\bin\Debug\Dapper.xml
+C:\Users\Tim\Source\Repos\DapperDemoDB\WinFormApp\obj\Debug\WinFormApp.csprojAssemblyReference.cache
+C:\Users\Tim\Source\Repos\DapperDemoDB\WinFormApp\obj\Debug\WinFormApp.Dashboard.resources
+C:\Users\Tim\Source\Repos\DapperDemoDB\WinFormApp\obj\Debug\WinFormApp.Properties.Resources.resources
+C:\Users\Tim\Source\Repos\DapperDemoDB\WinFormApp\obj\Debug\WinFormApp.csproj.GenerateResource.cache
+C:\Users\Tim\Source\Repos\DapperDemoDB\WinFormApp\obj\Debug\WinFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Source\Repos\DapperDemoDB\WinFormApp\obj\Debug\WinFormApp.csproj.CopyComplete
+C:\Users\Tim\Source\Repos\DapperDemoDB\WinFormApp\obj\Debug\WinFormApp.exe
+C:\Users\Tim\Source\Repos\DapperDemoDB\WinFormApp\obj\Debug\WinFormApp.pdb
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\WinFormApp\bin\Debug\WinFormApp.exe.config
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\WinFormApp\bin\Debug\WinFormApp.exe
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\WinFormApp\bin\Debug\WinFormApp.pdb
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\WinFormApp\bin\Debug\Dapper.dll
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\WinFormApp\bin\Debug\Dapper.xml
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\WinFormApp\obj\Debug\WinFormApp.csprojAssemblyReference.cache
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\WinFormApp\obj\Debug\WinFormApp.Dashboard.resources
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\WinFormApp\obj\Debug\WinFormApp.Properties.Resources.resources
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\WinFormApp\obj\Debug\WinFormApp.csproj.GenerateResource.cache
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\WinFormApp\obj\Debug\WinFormApp.csproj.CopyComplete
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\WinFormApp\obj\Debug\WinFormApp.exe
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\WinFormApp\obj\Debug\WinFormApp.pdb
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\WinFormApp\bin\Debug\DapperDemoLibrary.dll
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\4. Refactoring challenge\WinFormApp\bin\Debug\DapperDemoLibrary.pdb
