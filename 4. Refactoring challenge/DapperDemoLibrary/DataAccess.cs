@@ -17,39 +17,59 @@ namespace DapperDemoLibrary
             return ConfigurationManager.ConnectionStrings["DapperDemoDB"].ConnectionString;
         }
 
-        public List<SystemUserModel> GetUsers()
+        public List<SystemUserModel> ReadUsers(string proc, object p)
         {
             using (IDbConnection cnn = new SqlConnection(GetConnectionString()))
             {
-                return cnn.Query<SystemUserModel>("spSystemUser_Get", commandType: CommandType.StoredProcedure).ToList();
+                return cnn.Query<SystemUserModel>(proc, p, commandType: CommandType.StoredProcedure).ToList();
             }
         }
 
-        public List<SystemUserModel> GetFilteredUsers(string filter)
+        public void WriteUser(string proc, object p)
         {
             using (IDbConnection cnn = new SqlConnection(GetConnectionString()))
             {
-                var p = new
-                {
-                    Filter = filter
-                };
-
-                return cnn.Query<SystemUserModel>("spSystemUser_GetFiltered", p, commandType: CommandType.StoredProcedure).ToList();
+                cnn.Execute(proc, p, commandType: CommandType.StoredProcedure);
             }
         }
 
-        public void WriteUser(string FirstName, string LastName)
-        {
-            using (IDbConnection cnn = new SqlConnection(GetConnectionString()))
-            {
-                var p = new
-                {
-                    FirstName,
-                    LastName
-                };
 
-                cnn.Execute("dbo.spSystemUser_Create", p, commandType: CommandType.StoredProcedure);
-            }
-        }
+
+        //////////////////////////////////////// Code from main challenge below: ///////////////////////////////////////////////
+
+        //public List<SystemUserModel> GetUsers()
+        //{
+        //    using (IDbConnection cnn = new SqlConnection(GetConnectionString()))
+        //    {
+        //        return cnn.Query<SystemUserModel>("spSystemUser_Get", commandType: CommandType.StoredProcedure).ToList();
+        //    }
+        //}
+
+        //public List<SystemUserModel> GetFilteredUsers(string filter)
+        //{
+        //    using (IDbConnection cnn = new SqlConnection(GetConnectionString()))
+        //    {
+        //        var p = new
+        //        {
+        //            Filter = filter
+        //        };
+
+        //        return cnn.Query<SystemUserModel>("spSystemUser_GetFiltered", p, commandType: CommandType.StoredProcedure).ToList();
+        //    }
+        //}
+
+        //public void WriteUser(string FirstName, string LastName)
+        //{
+        //    using (IDbConnection cnn = new SqlConnection(GetConnectionString()))
+        //    {
+        //        var p = new
+        //        {
+        //            FirstName,
+        //            LastName
+        //        };
+
+        //        cnn.Execute("dbo.spSystemUser_Create", p, commandType: CommandType.StoredProcedure);
+        //    }
+        //}
     }
 }

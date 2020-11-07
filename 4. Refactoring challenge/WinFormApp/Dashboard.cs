@@ -19,7 +19,7 @@ namespace WinFormApp
     {
         BindingList<SystemUserModel> users = new BindingList<SystemUserModel>();
 
-        DataAccess dataAccess = new DataAccess();
+        BusinessLayer bl = new BusinessLayer();
 
         public Dashboard()
         {
@@ -28,27 +28,27 @@ namespace WinFormApp
             userDisplayList.DataSource = users;
             userDisplayList.DisplayMember = "FullName";
 
-            var records = dataAccess.GetUsers();
+            var records = bl.GetUsers();
 
             LoadUsers(records);
         }
 
         private void createUserButton_Click(object sender, EventArgs e)
         {
-            dataAccess.WriteUser(firstNameText.Text, lastNameText.Text);
+            bl.CreateUser(firstNameText.Text, lastNameText.Text);
 
             firstNameText.Text = "";
             lastNameText.Text = "";
             firstNameText.Focus();
 
-            var records = dataAccess.GetUsers();
+            var records = bl.GetUsers();
 
             LoadUsers(records);
         }
 
         private void applyFilterButton_Click(object sender, EventArgs e)
         {
-            var records = dataAccess.GetFilteredUsers(filterUsersText.Text);
+            var records = bl.GetFilteredUsers(filterUsersText.Text);
 
             LoadUsers(records);
         }

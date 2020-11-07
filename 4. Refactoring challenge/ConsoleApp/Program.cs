@@ -16,7 +16,8 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             string actionToTake = "";
-            string connectionString = ConfigurationManager.ConnectionStrings["DapperDemoDB"].ConnectionString;
+
+            BusinessLayer bl = new BusinessLayer();
 
             DataAccess dataAccess = new DataAccess();
 
@@ -28,7 +29,7 @@ namespace ConsoleApp
                 switch (actionToTake.ToLower())
                 {
                     case "display":
-                        var records = dataAccess.GetUsers();
+                        var records = bl.GetUsers();
 
                         Console.WriteLine();
                         records.ForEach(x => Console.WriteLine($"{ x.FirstName } { x.LastName }"));
@@ -42,7 +43,7 @@ namespace ConsoleApp
                         Console.Write("What is the last name: ");
                         string lastName = Console.ReadLine();
 
-                        dataAccess.WriteUser(firstName, lastName);
+                        bl.CreateUser(firstName, lastName);
 
                         Console.WriteLine();
                         break;
