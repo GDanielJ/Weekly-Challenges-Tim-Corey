@@ -1,0 +1,6 @@
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\5. Config File challenge\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\5. Config File challenge\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\5. Config File challenge\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\5. Config File challenge\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\5. Config File challenge\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\5. Config File challenge\ConsoleUI\obj\Debug\ConsoleUI.pdb
