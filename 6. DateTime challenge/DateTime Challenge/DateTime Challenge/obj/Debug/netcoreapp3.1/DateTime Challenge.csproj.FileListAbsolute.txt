@@ -1,0 +1,11 @@
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\6. DateTime challenge\DateTime Challenge\DateTime Challenge\bin\Debug\netcoreapp3.1\DateTime Challenge.exe
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\6. DateTime challenge\DateTime Challenge\DateTime Challenge\bin\Debug\netcoreapp3.1\DateTime Challenge.deps.json
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\6. DateTime challenge\DateTime Challenge\DateTime Challenge\bin\Debug\netcoreapp3.1\DateTime Challenge.runtimeconfig.json
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\6. DateTime challenge\DateTime Challenge\DateTime Challenge\bin\Debug\netcoreapp3.1\DateTime Challenge.runtimeconfig.dev.json
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\6. DateTime challenge\DateTime Challenge\DateTime Challenge\bin\Debug\netcoreapp3.1\DateTime Challenge.dll
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\6. DateTime challenge\DateTime Challenge\DateTime Challenge\bin\Debug\netcoreapp3.1\DateTime Challenge.pdb
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\6. DateTime challenge\DateTime Challenge\DateTime Challenge\obj\Debug\netcoreapp3.1\DateTime Challenge.csprojAssemblyReference.cache
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\6. DateTime challenge\DateTime Challenge\DateTime Challenge\obj\Debug\netcoreapp3.1\DateTime Challenge.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\6. DateTime challenge\DateTime Challenge\DateTime Challenge\obj\Debug\netcoreapp3.1\DateTime Challenge.AssemblyInfo.cs
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\6. DateTime challenge\DateTime Challenge\DateTime Challenge\obj\Debug\netcoreapp3.1\DateTime Challenge.dll
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\6. DateTime challenge\DateTime Challenge\DateTime Challenge\obj\Debug\netcoreapp3.1\DateTime Challenge.pdb
