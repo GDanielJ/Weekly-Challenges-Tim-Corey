@@ -1,0 +1,19 @@
+C:\Users\Tim\Source\Repos\PillReminderApp\PillReminderUI\bin\Debug\PillReminderUI.exe.config
+C:\Users\Tim\Source\Repos\PillReminderApp\PillReminderUI\bin\Debug\PillReminderUI.exe
+C:\Users\Tim\Source\Repos\PillReminderApp\PillReminderUI\bin\Debug\PillReminderUI.pdb
+C:\Users\Tim\Source\Repos\PillReminderApp\PillReminderUI\obj\Debug\PillReminderUI.csprojAssemblyReference.cache
+C:\Users\Tim\Source\Repos\PillReminderApp\PillReminderUI\obj\Debug\PillReminderUI.ReminderWindow.resources
+C:\Users\Tim\Source\Repos\PillReminderApp\PillReminderUI\obj\Debug\PillReminderUI.Properties.Resources.resources
+C:\Users\Tim\Source\Repos\PillReminderApp\PillReminderUI\obj\Debug\PillReminderUI.csproj.GenerateResource.cache
+C:\Users\Tim\Source\Repos\PillReminderApp\PillReminderUI\obj\Debug\PillReminderUI.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Source\Repos\PillReminderApp\PillReminderUI\obj\Debug\PillReminderUI.exe
+C:\Users\Tim\Source\Repos\PillReminderApp\PillReminderUI\obj\Debug\PillReminderUI.pdb
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\7. Pill Reminder challenge\PillReminderUI\bin\Debug\PillReminderUI.exe.config
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\7. Pill Reminder challenge\PillReminderUI\bin\Debug\PillReminderUI.exe
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\7. Pill Reminder challenge\PillReminderUI\bin\Debug\PillReminderUI.pdb
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\7. Pill Reminder challenge\PillReminderUI\obj\Debug\PillReminderUI.csprojAssemblyReference.cache
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\7. Pill Reminder challenge\PillReminderUI\obj\Debug\PillReminderUI.ReminderWindow.resources
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\7. Pill Reminder challenge\PillReminderUI\obj\Debug\PillReminderUI.Properties.Resources.resources
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\7. Pill Reminder challenge\PillReminderUI\obj\Debug\PillReminderUI.csproj.GenerateResource.cache
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\7. Pill Reminder challenge\PillReminderUI\obj\Debug\PillReminderUI.exe
+C:\Users\johan\source\repos\GDanielJ\Weekly Challanges Tim Corey\7. Pill Reminder challenge\PillReminderUI\obj\Debug\PillReminderUI.pdb
