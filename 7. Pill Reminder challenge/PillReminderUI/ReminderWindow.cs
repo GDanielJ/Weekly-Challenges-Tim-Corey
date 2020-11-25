@@ -7,6 +7,7 @@ using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Timers;
 using System.Windows.Forms;
 
 namespace PillReminderUI
@@ -15,6 +16,8 @@ namespace PillReminderUI
     {
         BindingList<PillModel> medications = new BindingList<PillModel>();
         BindingList<PillModel> pillsToTake = new BindingList<PillModel>();
+
+        private static System.Timers.Timer _aTimer;
 
         public ReminderWindow()
         {
@@ -26,6 +29,8 @@ namespace PillReminderUI
             pillsToTakeListBox.DisplayMember = "PillInfo";
 
             PopulateDummyData();
+
+            SetTimer();
         }
 
         public void PopulatePillsToTakeList()
@@ -50,7 +55,20 @@ namespace PillReminderUI
             medications.Add(new PillModel { PillName = "The big one", TimeToTake = DateTime.Parse("8:00 am") });
             medications.Add(new PillModel { PillName = "The red ones", TimeToTake = DateTime.Parse("11:45 pm") });
             medications.Add(new PillModel { PillName = "The oval one", TimeToTake = DateTime.Parse("0:27 am") });
-            medications.Add(new PillModel { PillName = "The round ones", TimeToTake = DateTime.Parse("6:15 pm") });
+            medications.Add(new PillModel { PillName = "The round ones", TimeToTake = DateTime.Parse("7:38 pm") });
+        }
+
+        private void SetTimer()
+        {
+            _aTimer = new System.Timers.Timer(5000);
+            _aTimer.Enabled = true;
+            _aTimer.Elapsed += OnTimedEvent;
+            _aTimer.AutoReset = true;
+        }
+
+        private void OnTimedEvent(object sender, ElapsedEventArgs e)
+        {
+            PopulatePillsToTakeList();
         }
 
         private void refreshPillsToTake_Click(object sender, EventArgs e)
